@@ -20,8 +20,8 @@
         "block8/php-docblock-checker": "~1.10"
     },
     "support": {
-      "issues": "https://github.com/pointybeard/helpers-functions-time/issues",
-      "wiki": "https://github.com/pointybeard/helpers-functions-time/wiki"
+        "issues": "https://github.com/pointybeard/helpers-functions-time/issues",
+        "wiki": "https://github.com/pointybeard/helpers-functions-time/wiki"
     },
     "minimum-stability": "stable",
     "autoload": {

@@ -59,4 +59,4 @@ We encourage you to contribute to this project. Please check out the [Contributi
 
 ## License
 
-"# PHP Helpers: Time Functions" is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+"PHP Helpers: Time Functions" is released under the [MIT License](http://www.opensource.org/licenses/MIT).
