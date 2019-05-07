@@ -1,7 +1,7 @@
 # PHP Helpers: Time Functions
 
--   Version: v1.0.0
--   Date: May 05 2019
+-   Version: v1.0.1
+-   Date: May 08 2019
 -   [Release notes](https://github.com/pointybeard/helpers-functions-time/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers-functions-time)
 
